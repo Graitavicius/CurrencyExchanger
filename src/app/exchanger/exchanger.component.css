@@ -1,0 +1,37 @@
+.position {
+  padding: 16px;
+  margin: 16px;
+  display: flex;
+}
+
+.list {
+  display: block;
+  margin: auto 16px;
+  padding: 20px;
+  height: 100px;
+  width: 33%;
+  border: 1px solid #eee;
+  box-shadow: 2px 4px 3px 1px #ccc;
+}
+
+h2 {
+  text-align: center;
+}
+
+mat-form-field {
+  display: grid;
+}
+
+input {
+  margin: auto;
+}
+
+.result {
+  display: block;
+  height: 100px;
+  padding: 16px;
+  margin: auto;
+  width: 80%;
+  border: 1px solid #eee;
+  box-shadow: 2px 4px 3px 1px #ccc;
+}
