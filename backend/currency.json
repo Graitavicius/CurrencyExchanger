@@ -1,0 +1,4225 @@
+{
+  "CcyNtry": [
+    {
+      "Ccy": {
+        "text": "ADP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Andoros peseta"
+        },
+        {
+          "lang": "EN",
+          "text": "Andorran peseta"
+        }
+      ],
+      "CcyNbr": {
+        "text": "020"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AED"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Jungtinių Arabų Emiratų dirhamas"
+        },
+        {
+          "lang": "EN",
+          "text": "UAE dirham"
+        }
+      ],
+      "CcyNbr": {
+        "text": "784"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AFN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Afganistano afganis"
+        },
+        {
+          "lang": "EN",
+          "text": "Afghani"
+        }
+      ],
+      "CcyNbr": {
+        "text": "971"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ALL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Albanijos lekas"
+        },
+        {
+          "lang": "EN",
+          "text": "Albanian lek"
+        }
+      ],
+      "CcyNbr": {
+        "text": "008"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AMD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Armėnijos dramas"
+        },
+        {
+          "lang": "EN",
+          "text": "Armenian dram"
+        }
+      ],
+      "CcyNbr": {
+        "text": "051"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ANG"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Olandijos Antilų guldenas"
+        },
+        {
+          "lang": "EN",
+          "text": "Netherlands Antillean guilder"
+        }
+      ],
+      "CcyNbr": {
+        "text": "532"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AOA"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Angolos kvanza"
+        },
+        {
+          "lang": "EN",
+          "text": "Kwanza"
+        }
+      ],
+      "CcyNbr": {
+        "text": "973"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ARS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Argentinos pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Argentine peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "032"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ATS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Austrijos šilingas"
+        },
+        {
+          "lang": "EN",
+          "text": "Austrian schilling"
+        }
+      ],
+      "CcyNbr": {
+        "text": "040"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AUD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Australijos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Australian dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "036"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AWG"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Arubos florinas"
+        },
+        {
+          "lang": "EN",
+          "text": "Aruban florin"
+        }
+      ],
+      "CcyNbr": {
+        "text": "533"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "AZN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Azerbaidžano manatas"
+        },
+        {
+          "lang": "EN",
+          "text": "Azerbaijan manat"
+        }
+      ],
+      "CcyNbr": {
+        "text": "944"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BAM"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bosnijos ir Hercegovinos konvertuojamoji markė"
+        },
+        {
+          "lang": "EN",
+          "text": "Convertible marks"
+        }
+      ],
+      "CcyNbr": {
+        "text": "977"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BBD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Barbadoso doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Barbodos dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "052"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BDT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bangladešo taka"
+        },
+        {
+          "lang": "EN",
+          "text": "Bangladeshi taka"
+        }
+      ],
+      "CcyNbr": {
+        "text": "050"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BEF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Belgijos frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Belgian franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "056"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BGN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bulgarijos levas"
+        },
+        {
+          "lang": "EN",
+          "text": "Bulgarian lev"
+        }
+      ],
+      "CcyNbr": {
+        "text": "975"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BHD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bahreino dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Bahraini dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "048"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BIF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Burundžio frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Burundi franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "108"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BYN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Baltarusijos rublis"
+        },
+        {
+          "lang": "EN",
+          "text": "Belarussian ruble"
+        }
+      ],
+      "CcyNbr": {
+        "text": "933"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BMD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bermudos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Bermudian dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "060"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BND"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Brunėjaus doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Brunei dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "096"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BOB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bolivijos bolivianas"
+        },
+        {
+          "lang": "EN",
+          "text": "Bolivian boliviano"
+        }
+      ],
+      "CcyNbr": {
+        "text": "068"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BOV"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bolivijos Mvdol"
+        },
+        {
+          "lang": "EN",
+          "text": "Mvdol"
+        }
+      ],
+      "CcyNbr": {
+        "text": "984"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BRL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Brazilijos realas"
+        },
+        {
+          "lang": "EN",
+          "text": "Brazilian real"
+        }
+      ],
+      "CcyNbr": {
+        "text": "986"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BSD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Bahamų doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Bahamian dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "044"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BTN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ngultrumas"
+        },
+        {
+          "lang": "EN",
+          "text": "Ngultrum"
+        }
+      ],
+      "CcyNbr": {
+        "text": "064"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BWP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Pula"
+        },
+        {
+          "lang": "EN",
+          "text": "Pula"
+        }
+      ],
+      "CcyNbr": {
+        "text": "072"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "BZD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Belizo doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Belize dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "084"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CAD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kanados doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Canadian dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "124"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CDF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kongo frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Congolese Franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "976"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CHF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Šveicarijos frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Swiss franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "756"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CYP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kipro svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Cyprus pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "196"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CLF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Unidad de fomento"
+        },
+        {
+          "lang": "EN",
+          "text": "Unidad de fomento"
+        }
+      ],
+      "CcyNbr": {
+        "text": "990"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CLP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Čilės pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Chilean peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "152"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CNY"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kinijos ženminbi juanis"
+        },
+        {
+          "lang": "EN",
+          "text": "Chinese yuan renminbi"
+        }
+      ],
+      "CcyNbr": {
+        "text": "156"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "COP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kolumbijos pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Colombian peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "170"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CRC"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kosta Rikos kolonas"
+        },
+        {
+          "lang": "EN",
+          "text": "Costa Rican colon"
+        }
+      ],
+      "CcyNbr": {
+        "text": "188"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CUP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kubos pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Cuban peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "192"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CVE"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Žaliojo Kyšulio eskudas"
+        },
+        {
+          "lang": "EN",
+          "text": "Cape Verde escudo"
+        }
+      ],
+      "CcyNbr": {
+        "text": "132"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "CZK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Čekijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Czech koruna"
+        }
+      ],
+      "CcyNbr": {
+        "text": "203"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "DEM"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Vokietijos markė"
+        },
+        {
+          "lang": "EN",
+          "text": "Deutsche mark"
+        }
+      ],
+      "CcyNbr": {
+        "text": "276"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "DJF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Džibučio frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Djibouti franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "262"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "DKK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Danijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Danish krone"
+        }
+      ],
+      "CcyNbr": {
+        "text": "208"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "DOP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Dominikos pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Dominican peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "214"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "DZD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Alžyro dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Algerian dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "012"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ECS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ekvadoro sukrė"
+        },
+        {
+          "lang": "EN",
+          "text": "Ecuadoran sucre"
+        }
+      ],
+      "CcyNbr": {
+        "text": "218"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ECV"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Constante (UVC)"
+        },
+        {
+          "lang": "EN",
+          "text": "Unidad de valor"
+        }
+      ],
+      "CcyNbr": {
+        "text": "983"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "EEK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Estijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Estonian kroon"
+        }
+      ],
+      "CcyNbr": {
+        "text": "233"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "EGP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Egipto svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Egyptian pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "818"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ERN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Nakfa"
+        },
+        {
+          "lang": "EN",
+          "text": "Nakfa"
+        }
+      ],
+      "CcyNbr": {
+        "text": "232"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ESP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ispanijos peseta"
+        },
+        {
+          "lang": "EN",
+          "text": "Spanish peseta"
+        }
+      ],
+      "CcyNbr": {
+        "text": "724"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ETB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Etiopijos biras"
+        },
+        {
+          "lang": "EN",
+          "text": "Ethiopian birr"
+        }
+      ],
+      "CcyNbr": {
+        "text": "230"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "EUR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Euras"
+        },
+        {
+          "lang": "EN",
+          "text": "Euro"
+        }
+      ],
+      "CcyNbr": {
+        "text": "978"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "FIM"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Suomijos markė"
+        },
+        {
+          "lang": "EN",
+          "text": "Finnish markka"
+        }
+      ],
+      "CcyNbr": {
+        "text": "246"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "FJD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Fidžio doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Fiji dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "242"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "FKP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Falklando salų svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Falkland islands pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "238"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "FRF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Prancūzijos frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "French franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "250"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GBP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Didžiosios Britanijos svaras sterlingų"
+        },
+        {
+          "lang": "EN",
+          "text": "Pound sterling"
+        }
+      ],
+      "CcyNbr": {
+        "text": "826"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GEL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Gruzijos laris"
+        },
+        {
+          "lang": "EN",
+          "text": "Georgian lari"
+        }
+      ],
+      "CcyNbr": {
+        "text": "981"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GHS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ganos sedis"
+        },
+        {
+          "lang": "EN",
+          "text": "Ghana cedi"
+        }
+      ],
+      "CcyNbr": {
+        "text": "936"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GYD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Gajanos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Guyana dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "328"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GIP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Gibraltaro svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Gibraltar pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "292"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GMD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Dalasis"
+        },
+        {
+          "lang": "EN",
+          "text": "Dalasi"
+        }
+      ],
+      "CcyNbr": {
+        "text": "270"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GNF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Gvinėjos frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Guinean franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "324"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GRD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Graikijos drachma"
+        },
+        {
+          "lang": "EN",
+          "text": "Greek drachma"
+        }
+      ],
+      "CcyNbr": {
+        "text": "300"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GTQ"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ketcalis"
+        },
+        {
+          "lang": "EN",
+          "text": "Quetzal"
+        }
+      ],
+      "CcyNbr": {
+        "text": "320"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "GWP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Gvinėjos-Bisau pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Guinea-Bissau peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "624"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "HKD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Honkongo doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Hong Kong dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "344"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "HNL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Lempira"
+        },
+        {
+          "lang": "EN",
+          "text": "Lempira"
+        }
+      ],
+      "CcyNbr": {
+        "text": "340"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "HRK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kroatijos kuna"
+        },
+        {
+          "lang": "EN",
+          "text": "Croatian kuna"
+        }
+      ],
+      "CcyNbr": {
+        "text": "191"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "HTG"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Gurdas"
+        },
+        {
+          "lang": "EN",
+          "text": "Gourde"
+        }
+      ],
+      "CcyNbr": {
+        "text": "332"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "HUF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Vengrijos forintas"
+        },
+        {
+          "lang": "EN",
+          "text": "Hungarian forint"
+        }
+      ],
+      "CcyNbr": {
+        "text": "348"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "IDR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Indonezijos rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Indonesian rupiah"
+        }
+      ],
+      "CcyNbr": {
+        "text": "360"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "IEP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Airijos svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Irish pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "372"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "YER"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Jemeno rialas"
+        },
+        {
+          "lang": "EN",
+          "text": "Yemeni rial"
+        }
+      ],
+      "CcyNbr": {
+        "text": "886"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ILS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Izraelio naujasis šekelis"
+        },
+        {
+          "lang": "EN",
+          "text": "Israeli new shekel"
+        }
+      ],
+      "CcyNbr": {
+        "text": "376"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "INR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Indijos rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Indian rupee"
+        }
+      ],
+      "CcyNbr": {
+        "text": "356"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "IQD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Irako dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Iraqi dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "368"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "IRR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Irano rialas"
+        },
+        {
+          "lang": "EN",
+          "text": "Iranian rial"
+        }
+      ],
+      "CcyNbr": {
+        "text": "364"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ISK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Islandijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Iceland krona"
+        }
+      ],
+      "CcyNbr": {
+        "text": "352"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ITL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Italijos lira"
+        },
+        {
+          "lang": "EN",
+          "text": "Italian lire"
+        }
+      ],
+      "CcyNbr": {
+        "text": "380"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "JMD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Jamaikos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Jamaican dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "388"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "JOD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Jordanijos dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Jordanian dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "400"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "JPY"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Japonijos jena"
+        },
+        {
+          "lang": "EN",
+          "text": "Japanese yen"
+        }
+      ],
+      "CcyNbr": {
+        "text": "392"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KES"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kenijos šilingas"
+        },
+        {
+          "lang": "EN",
+          "text": "Kenyan shilling"
+        }
+      ],
+      "CcyNbr": {
+        "text": "404"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KGS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kirgizijos somas"
+        },
+        {
+          "lang": "EN",
+          "text": "Kyrghyzstan som"
+        }
+      ],
+      "CcyNbr": {
+        "text": "417"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KHR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Rielis"
+        },
+        {
+          "lang": "EN",
+          "text": "Riel"
+        }
+      ],
+      "CcyNbr": {
+        "text": "116"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KYD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kaimanų salų doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Cayman islands dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "136"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KMF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Komoro frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Comorian franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "174"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KPW"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Šiaurės Korėjos vonas"
+        },
+        {
+          "lang": "EN",
+          "text": "North Korean won"
+        }
+      ],
+      "CcyNbr": {
+        "text": "408"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KRW"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Pietų Korėjos vonas"
+        },
+        {
+          "lang": "EN",
+          "text": "South Korean won"
+        }
+      ],
+      "CcyNbr": {
+        "text": "410"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KWD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kuveito dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Kuwaiti dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "414"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "KZT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kazachstano tengė"
+        },
+        {
+          "lang": "EN",
+          "text": "Kazakhstan tenge"
+        }
+      ],
+      "CcyNbr": {
+        "text": "398"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LAK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Laoso kipas"
+        },
+        {
+          "lang": "EN",
+          "text": "Lao kip"
+        }
+      ],
+      "CcyNbr": {
+        "text": "418"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LBP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Libano svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Lebanese pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "422"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LYD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Libijos dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Libyan dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "434"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LKR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Šri Lankos rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Sri Lanka rupee"
+        }
+      ],
+      "CcyNbr": {
+        "text": "144"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LRD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Liberijos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Liberian dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "430"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LSL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Lesoto lotis"
+        },
+        {
+          "lang": "EN",
+          "text": "Loti"
+        }
+      ],
+      "CcyNbr": {
+        "text": "426"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LTL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Lietuvos litas"
+        },
+        {
+          "lang": "EN",
+          "text": "Lithuanian litas"
+        }
+      ],
+      "CcyNbr": {
+        "text": "440"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LTT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Lietuvos talonai"
+        },
+        {
+          "lang": "EN",
+          "text": "Lithuanian talonas"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LUF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Liuksemburgo frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Luxembourg franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "442"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "LVL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Latvijos latas"
+        },
+        {
+          "lang": "EN",
+          "text": "Latvian lats"
+        }
+      ],
+      "CcyNbr": {
+        "text": "428"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MAD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Maroko dirhamas"
+        },
+        {
+          "lang": "EN",
+          "text": "Moroccan dirham"
+        }
+      ],
+      "CcyNbr": {
+        "text": "504"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MDL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Moldovos lėja"
+        },
+        {
+          "lang": "EN",
+          "text": "Moldovan leu"
+        }
+      ],
+      "CcyNbr": {
+        "text": "498"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MDR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Moldovos rublis"
+        },
+        {
+          "lang": "EN",
+          "text": "Moldovan ruble"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MGA"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Madagaskaro ariaris"
+        },
+        {
+          "lang": "EN",
+          "text": "Malagasy ariary"
+        }
+      ],
+      "CcyNbr": {
+        "text": "969"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MYR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Malaizijos ringitas"
+        },
+        {
+          "lang": "EN",
+          "text": "Malaysian ringgit"
+        }
+      ],
+      "CcyNbr": {
+        "text": "458"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MKD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Makedonijos denaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Macedonian denar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "807"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MMK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kijatas"
+        },
+        {
+          "lang": "EN",
+          "text": "Kyat"
+        }
+      ],
+      "CcyNbr": {
+        "text": "104"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MNT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Mongolijos tugrikas"
+        },
+        {
+          "lang": "EN",
+          "text": "Mongolian tugrik"
+        }
+      ],
+      "CcyNbr": {
+        "text": "496"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MOP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Pataka"
+        },
+        {
+          "lang": "EN",
+          "text": "Pataca"
+        }
+      ],
+      "CcyNbr": {
+        "text": "446"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MRO"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Mauritanijos ugija"
+        },
+        {
+          "lang": "EN",
+          "text": "Ouguiya"
+        }
+      ],
+      "CcyNbr": {
+        "text": "478"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MTL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Maltos lira"
+        },
+        {
+          "lang": "EN",
+          "text": "Maltese lira"
+        }
+      ],
+      "CcyNbr": {
+        "text": "470"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MUR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Mauricijaus rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Mauritius rupee"
+        }
+      ],
+      "CcyNbr": {
+        "text": "480"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MVR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Rufija"
+        },
+        {
+          "lang": "EN",
+          "text": "Rufiyaa"
+        }
+      ],
+      "CcyNbr": {
+        "text": "462"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MWK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Malavio kvača"
+        },
+        {
+          "lang": "EN",
+          "text": "Malawi kwacha"
+        }
+      ],
+      "CcyNbr": {
+        "text": "454"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MXN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Meksikos pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Mexican peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "484"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MXV"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Meksikos United de Inversion (UDI)"
+        },
+        {
+          "lang": "EN",
+          "text": "Mexican unidad de inversion (UDI)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "979"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "MZN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Mozambiko metikalis"
+        },
+        {
+          "lang": "EN",
+          "text": "Mozambique metical"
+        }
+      ],
+      "CcyNbr": {
+        "text": "943"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NAD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Namibijos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Namibia dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "516"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NGN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Nigerijos naira"
+        },
+        {
+          "lang": "EN",
+          "text": "Naira"
+        }
+      ],
+      "CcyNbr": {
+        "text": "566"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NIO"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kardoba oras"
+        },
+        {
+          "lang": "EN",
+          "text": "Cordoba oro"
+        }
+      ],
+      "CcyNbr": {
+        "text": "558"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NLG"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Olandijos guldenas"
+        },
+        {
+          "lang": "EN",
+          "text": "Netherlands guilder"
+        }
+      ],
+      "CcyNbr": {
+        "text": "528"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NOK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Norvegijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Norwegian krone"
+        }
+      ],
+      "CcyNbr": {
+        "text": "578"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NPR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Nepalo rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Nepalese rupee"
+        }
+      ],
+      "CcyNbr": {
+        "text": "524"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "NZD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Naujosios Zelandijos doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "New Zealand dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "554"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "OMR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Omano rialas"
+        },
+        {
+          "lang": "EN",
+          "text": "Rial Omani"
+        }
+      ],
+      "CcyNbr": {
+        "text": "512"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PAB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Panamos balboja"
+        },
+        {
+          "lang": "EN",
+          "text": "Panamanian balboa"
+        }
+      ],
+      "CcyNbr": {
+        "text": "590"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PEN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Peru solis"
+        },
+        {
+          "lang": "EN",
+          "text": "Peruvian sol"
+        }
+      ],
+      "CcyNbr": {
+        "text": "604"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PGK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kina"
+        },
+        {
+          "lang": "EN",
+          "text": "Kina"
+        }
+      ],
+      "CcyNbr": {
+        "text": "598"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PHP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Filipinų pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Philippine peso"
+        }
+      ],
+      "CcyNbr": {
+        "text": "608"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PYG"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Paragvajaus guaranis"
+        },
+        {
+          "lang": "EN",
+          "text": "Guarani"
+        }
+      ],
+      "CcyNbr": {
+        "text": "600"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PKR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Pakistano rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Pakistan rupee"
+        }
+      ],
+      "CcyNbr": {
+        "text": "586"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PLN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Lenkijos zlotas"
+        },
+        {
+          "lang": "EN",
+          "text": "Polish zloty"
+        }
+      ],
+      "CcyNbr": {
+        "text": "985"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "PTE"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Portugalijos eskudas"
+        },
+        {
+          "lang": "EN",
+          "text": "Portuguese escudo"
+        }
+      ],
+      "CcyNbr": {
+        "text": "620"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "QAR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Kataro rialas"
+        },
+        {
+          "lang": "EN",
+          "text": "Qatari rial"
+        }
+      ],
+      "CcyNbr": {
+        "text": "634"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "RON"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Rumunijos lėja"
+        },
+        {
+          "lang": "EN",
+          "text": "Romanian leu"
+        }
+      ],
+      "CcyNbr": {
+        "text": "946"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "RSD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Serbijos dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Serbian dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "941"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "RUB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Rusijos rublis"
+        },
+        {
+          "lang": "EN",
+          "text": "Russian ruble"
+        }
+      ],
+      "CcyNbr": {
+        "text": "643"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "RWF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ruandos frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "Rwanda franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "646"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SAR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Saudo Arabijos rijalas"
+        },
+        {
+          "lang": "EN",
+          "text": "Saudi riyal"
+        }
+      ],
+      "CcyNbr": {
+        "text": "682"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SBD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Saliamono salų doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Solomon islands dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "090"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SCR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Seišelių salų rupija"
+        },
+        {
+          "lang": "EN",
+          "text": "Seychelles rupee"
+        }
+      ],
+      "CcyNbr": {
+        "text": "690"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SDD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Sudano dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Sudanese dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "736"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SEK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Švedijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Swedish krona"
+        }
+      ],
+      "CcyNbr": {
+        "text": "752"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SGD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Singapūro doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Singapore dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "702"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SHP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Šv.Elenos salų svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "St.Helena pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "654"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SYP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Sirijos svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Syrian pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "760"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SIT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Slovėnijos tolaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Slovenian tolar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "705"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SKK"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Slovakijos krona"
+        },
+        {
+          "lang": "EN",
+          "text": "Slovak koruna"
+        }
+      ],
+      "CcyNbr": {
+        "text": "703"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SLL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Leonė"
+        },
+        {
+          "lang": "EN",
+          "text": "Leone"
+        }
+      ],
+      "CcyNbr": {
+        "text": "694"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SOS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Somalio šilingas"
+        },
+        {
+          "lang": "EN",
+          "text": "Somali shilling"
+        }
+      ],
+      "CcyNbr": {
+        "text": "706"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SRD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Surinamo doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Suriname dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "968"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SSP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Pietų Sudano svaras"
+        },
+        {
+          "lang": "EN",
+          "text": "South Sudanese pound"
+        }
+      ],
+      "CcyNbr": {
+        "text": "728"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "STD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Dobra"
+        },
+        {
+          "lang": "EN",
+          "text": "Dobra"
+        }
+      ],
+      "CcyNbr": {
+        "text": "678"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SVC"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Salvadoro kolonas"
+        },
+        {
+          "lang": "EN",
+          "text": "El Salvador colon"
+        }
+      ],
+      "CcyNbr": {
+        "text": "222"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "SZL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Lilangenis"
+        },
+        {
+          "lang": "EN",
+          "text": "Lilangeni"
+        }
+      ],
+      "CcyNbr": {
+        "text": "748"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "THB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tailando batas"
+        },
+        {
+          "lang": "EN",
+          "text": "Thai baht"
+        }
+      ],
+      "CcyNbr": {
+        "text": "764"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TJR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tadžikijos rublis"
+        },
+        {
+          "lang": "EN",
+          "text": "Tajik ruble"
+        }
+      ],
+      "CcyNbr": {
+        "text": "762"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TJS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tadžikistano somonis"
+        },
+        {
+          "lang": "EN",
+          "text": "Tajikistan somoni"
+        }
+      ],
+      "CcyNbr": {
+        "text": "972"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TMT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Turkmėnistano naujasis manatas"
+        },
+        {
+          "lang": "EN",
+          "text": "Turkmenistan new manat"
+        }
+      ],
+      "CcyNbr": {
+        "text": "934"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TND"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tuniso dinaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Tunisian dinar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "788"
+      },
+      "CcyMnrUnts": {
+        "text": "3"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TOP"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tongo paanga"
+        },
+        {
+          "lang": "EN",
+          "text": "Pa'anga"
+        }
+      ],
+      "CcyNbr": {
+        "text": "776"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TPE"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Timoro eskudas"
+        },
+        {
+          "lang": "EN",
+          "text": "Timor escudo"
+        }
+      ],
+      "CcyNbr": {
+        "text": "626"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TRY"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Turkijos lira"
+        },
+        {
+          "lang": "EN",
+          "text": "Turkish lira"
+        }
+      ],
+      "CcyNbr": {
+        "text": "949"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TTD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Trinidado ir Tobago doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Trinidad and Tobago dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "780"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TWD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Taivano naujasis doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Taiwan new dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "901"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "TZS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tanzanijos šilingas"
+        },
+        {
+          "lang": "EN",
+          "text": "Tanzanian shilling"
+        }
+      ],
+      "CcyNbr": {
+        "text": "834"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "UAH"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ukrainos grivina"
+        },
+        {
+          "lang": "EN",
+          "text": "Ukrainian hryvnia"
+        }
+      ],
+      "CcyNbr": {
+        "text": "980"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "UGX"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Ugandos šilingas"
+        },
+        {
+          "lang": "EN",
+          "text": "Uganda shilling"
+        }
+      ],
+      "CcyNbr": {
+        "text": "800"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "UYU"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Urugvajaus pesas"
+        },
+        {
+          "lang": "EN",
+          "text": "Peso Uruguayo"
+        }
+      ],
+      "CcyNbr": {
+        "text": "858"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "USD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "JAV doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "US dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "840"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "USN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "JAV doleris (sekančios dienos)"
+        },
+        {
+          "lang": "EN",
+          "text": "US dollar (Next day)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "997"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "UZS"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Uzbekistano sumas"
+        },
+        {
+          "lang": "EN",
+          "text": "Uzbekistan sum"
+        }
+      ],
+      "CcyNbr": {
+        "text": "860"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "VEB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Venesuelos bolivaras"
+        },
+        {
+          "lang": "EN",
+          "text": "Venezuelan bolivar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "862"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "VES"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Venesuelos bolivaras soberanas"
+        },
+        {
+          "lang": "EN",
+          "text": "Venezuelan bolivar soberano"
+        }
+      ],
+      "CcyNbr": {
+        "text": "928"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "VND"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Vietnamo dongas"
+        },
+        {
+          "lang": "EN",
+          "text": "Vietnamese dong"
+        }
+      ],
+      "CcyNbr": {
+        "text": "704"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "VUV"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Vatu"
+        },
+        {
+          "lang": "EN",
+          "text": "Vatu"
+        }
+      ],
+      "CcyNbr": {
+        "text": "548"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "WST"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Tala"
+        },
+        {
+          "lang": "EN",
+          "text": "Tala"
+        }
+      ],
+      "CcyNbr": {
+        "text": "882"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XAF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "CFA BEAC frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "CFA franc BEAC"
+        }
+      ],
+      "CcyNbr": {
+        "text": "950"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XAG"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Silveriai"
+        },
+        {
+          "lang": "EN",
+          "text": "Silver"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XAU"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Auksas"
+        },
+        {
+          "lang": "EN",
+          "text": "Gold"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XBA"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Europos suvestinės vienetas"
+        },
+        {
+          "lang": "EN",
+          "text": "European composite unit (EURCO)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XBB"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Europos piniginis vienetas"
+        },
+        {
+          "lang": "EN",
+          "text": "European monetary unit (EMU-6)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XBC"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Europos valiutos/apskaitos vienetas"
+        },
+        {
+          "lang": "EN",
+          "text": "European unit of account-9 (EUA-9)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XBD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Europos valiutos/apskaitos vienetas"
+        },
+        {
+          "lang": "EN",
+          "text": "European unit of account-17 (EUA-17)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XCD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Rytų Karibų doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "East Karibbean dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "951"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XDR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "SDR Tarptautinis valiutos fondas"
+        },
+        {
+          "lang": "EN",
+          "text": "SDR I.M.F."
+        }
+      ],
+      "CcyNbr": {
+        "text": "960"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XFO"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Auksinis - frankas (speciali atsiskaitymų valiuta)"
+        },
+        {
+          "lang": "EN",
+          "text": "Gold-franc (special settlement currency)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XFU"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Uic -frankas (speciali atsiskaitymų valiuta)"
+        },
+        {
+          "lang": "EN",
+          "text": "Uic-franc (special settlement currency)"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XOF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "CFA BCEAO frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "CFA franc BCEAO"
+        }
+      ],
+      "CcyNbr": {
+        "text": "952"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XPD"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Paladis"
+        },
+        {
+          "lang": "EN",
+          "text": "Palladium"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XPF"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "CFP frankas"
+        },
+        {
+          "lang": "EN",
+          "text": "CFP franc"
+        }
+      ],
+      "CcyNbr": {
+        "text": "953"
+      },
+      "CcyMnrUnts": {
+        "text": "0"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XPT"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Platina"
+        },
+        {
+          "lang": "EN",
+          "text": "Platinum"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "XXX"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Nevaliutinės operacijos"
+        },
+        {
+          "lang": "EN",
+          "text": "Transactions without currency"
+        }
+      ],
+      "CcyNbr": {
+        "text": "N/A"
+      },
+      "CcyMnrUnts": {
+        "text": "5"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ZAR"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Pietų Afrikos Respublikos randas"
+        },
+        {
+          "lang": "EN",
+          "text": "South African rand"
+        }
+      ],
+      "CcyNbr": {
+        "text": "710"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ZMW"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Zambijos kvača"
+        },
+        {
+          "lang": "EN",
+          "text": "Zambian Kwacha"
+        }
+      ],
+      "CcyNbr": {
+        "text": "967"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ZRN"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Zairo naujasis zairas"
+        },
+        {
+          "lang": "EN",
+          "text": "New zaire"
+        }
+      ],
+      "CcyNbr": {
+        "text": "180"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    },
+    {
+      "Ccy": {
+        "text": "ZWL"
+      },
+      "CcyNm": [
+        {
+          "lang": "LT",
+          "text": "Zimbabvės doleris"
+        },
+        {
+          "lang": "EN",
+          "text": "Zimbabwe dollar"
+        }
+      ],
+      "CcyNbr": {
+        "text": "932"
+      },
+      "CcyMnrUnts": {
+        "text": "2"
+      }
+    }
+  ]
+}

@@ -1,4 +1,7 @@
 export interface Currency {
-  value: string;
-  amount: number;
+  id: string;
+  abbreviation: string;
+  nameLT: string;
+  nameEN: string;
+  number: number;
 }

@@ -1,6 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
+const fs = require("fs");
 
 mongoose
   .connect(
@@ -24,24 +25,29 @@ app.use((req, res, next) => {
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept, Authorization"
   );
-  res.setHeader("Access-Control-Allow-Methods", "GET");
+  res.setHeader("Access-Control-Allow-Methods", "GET, POST");
   next();
 });
 
+// fs.readFile("currency.json", (err, data) => {
+//   if (err) throw err;
+//   let currency = JSON.parse(data);
+//   console.log(currency);
+// });
+
+let eyes = require("eyes");
+let jsonData = require("./currency.json");
+
+//console.log(jsonData);
+// for (i = 0; i < jsonData.CcyNtry.length; i++) {
+//   console.log(jsonData.CcyNtry[i].CcyNm[1].text);
+// }
+eyes.inspect(jsonData.CcyNtry[1]);
 app.get("/api/currency", (req, res, next) => {
-  const currency = [
-    {
-      value: "Euros",
-      amount: 5,
-    },
-    {
-      value: "Litai",
-      amount: 10,
-    },
-  ];
   res.status(200).json({
-    message: "Currency fetched successfully!",
-    currency: currency,
+    message: "Currencies fetched successfully",
+    currencies: jsonData,
   });
 });
+
 module.exports = app;

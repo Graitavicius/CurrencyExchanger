@@ -5,10 +5,11 @@
       <mat-label>Select the currency</mat-label>
       <mat-select>
         <mat-option
+          id="output"
           *ngFor="let currency of currencies"
-          [value]="currency.value"
+          [value]="currency.nameEN"
         >
-          {{ currency.value }}
+          {{ currency.nameEN }}
         </mat-option>
       </mat-select>
     </mat-form-field>
@@ -20,10 +21,11 @@
       <mat-label>Select the currency</mat-label>
       <mat-select>
         <mat-option
+          id="output"
           *ngFor="let currency of currencies"
-          [value]="currency.value"
+          [value]="currency.nameEN"
         >
-          {{ currency.value }}
+          {{ currency.nameEN }}
         </mat-option>
       </mat-select>
     </mat-form-field>
