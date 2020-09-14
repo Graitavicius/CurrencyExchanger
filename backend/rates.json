@@ -1,0 +1,2344 @@
+{
+  "FxRate": [
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "AED"
+          },
+          "Amt": {
+            "text": "4.375820"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "AFN"
+          },
+          "Amt": {
+            "text": "91.736060"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "ALL"
+          },
+          "Amt": {
+            "text": "124.222810"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "AMD"
+          },
+          "Amt": {
+            "text": "580.043970"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "ARS"
+          },
+          "Amt": {
+            "text": "88.028140"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "AUD"
+          },
+          "Amt": {
+            "text": "1.6244"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "AZN"
+          },
+          "Amt": {
+            "text": "2.024020"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BAM"
+          },
+          "Amt": {
+            "text": "1.9792"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BDT"
+          },
+          "Amt": {
+            "text": "101.069890"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BGN"
+          },
+          "Amt": {
+            "text": "1.9558"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BHD"
+          },
+          "Amt": {
+            "text": "0.448730"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BYN"
+          },
+          "Amt": {
+            "text": "3.171960"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BOB"
+          },
+          "Amt": {
+            "text": "8.219970"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "BRL"
+          },
+          "Amt": {
+            "text": "6.2561"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "CAD"
+          },
+          "Amt": {
+            "text": "1.5622"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "CHF"
+          },
+          "Amt": {
+            "text": "1.0777"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "CLP"
+          },
+          "Amt": {
+            "text": "927.427050"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "CNY"
+          },
+          "Amt": {
+            "text": "8.1043"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "COP"
+          },
+          "Amt": {
+            "text": "4542.855770"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "CZK"
+          },
+          "Amt": {
+            "text": "26.5660"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "DJF"
+          },
+          "Amt": {
+            "text": "212.081180"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "DKK"
+          },
+          "Amt": {
+            "text": "7.4402"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "DZD"
+          },
+          "Amt": {
+            "text": "152.577530"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "EGP"
+          },
+          "Amt": {
+            "text": "18.909150"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "ETB"
+          },
+          "Amt": {
+            "text": "43.052990"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "GBP"
+          },
+          "Amt": {
+            "text": "0.924080"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "GEL"
+          },
+          "Amt": {
+            "text": "3.683920"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "GHS"
+          },
+          "Amt": {
+            "text": "6.891670"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "GNF"
+          },
+          "Amt": {
+            "text": "11508.553650"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "HKD"
+          },
+          "Amt": {
+            "text": "9.1871"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "HRK"
+          },
+          "Amt": {
+            "text": "7.5390"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "HUF"
+          },
+          "Amt": {
+            "text": "357.13"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "IDR"
+          },
+          "Amt": {
+            "text": "17772.61"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "YER"
+          },
+          "Amt": {
+            "text": "296.574140"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "ILS"
+          },
+          "Amt": {
+            "text": "4.1004"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "INR"
+          },
+          "Amt": {
+            "text": "87.2431"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "IQD"
+          },
+          "Amt": {
+            "text": "1422.185850"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "IRR"
+          },
+          "Amt": {
+            "text": "50034.60"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "ISK"
+          },
+          "Amt": {
+            "text": "161.80"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "JOD"
+          },
+          "Amt": {
+            "text": "0.844630"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "JPY"
+          },
+          "Amt": {
+            "text": "125.82"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "KES"
+          },
+          "Amt": {
+            "text": "128.958230"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "KGS"
+          },
+          "Amt": {
+            "text": "93.474220"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "KRW"
+          },
+          "Amt": {
+            "text": "1407.07"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "KWD"
+          },
+          "Amt": {
+            "text": "0.363730"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "KZT"
+          },
+          "Amt": {
+            "text": "500.631910"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "LBP"
+          },
+          "Amt": {
+            "text": "1801.483860"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "LYD"
+          },
+          "Amt": {
+            "text": "1.628150"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "LKR"
+          },
+          "Amt": {
+            "text": "222.058320"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MAD"
+          },
+          "Amt": {
+            "text": "10.900160"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MDL"
+          },
+          "Amt": {
+            "text": "19.855160"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MGA"
+          },
+          "Amt": {
+            "text": "4590.0789"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MYR"
+          },
+          "Amt": {
+            "text": "4.9224"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MKD"
+          },
+          "Amt": {
+            "text": "62.400290"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MNT"
+          },
+          "Amt": {
+            "text": "3437.496150"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MUR"
+          },
+          "Amt": {
+            "text": "47.354180"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MXN"
+          },
+          "Amt": {
+            "text": "25.2387"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "MZN"
+          },
+          "Amt": {
+            "text": "84.433390"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "NGN"
+          },
+          "Amt": {
+            "text": "454.183130"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "NOK"
+          },
+          "Amt": {
+            "text": "10.7028"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "NZD"
+          },
+          "Amt": {
+            "text": "1.7738"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "PAB"
+          },
+          "Amt": {
+            "text": "1.1913"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "PEN"
+          },
+          "Amt": {
+            "text": "4.245790"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "PHP"
+          },
+          "Amt": {
+            "text": "57.5510"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "PKR"
+          },
+          "Amt": {
+            "text": "199.405750"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "PLN"
+          },
+          "Amt": {
+            "text": "4.4467"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "QAR"
+          },
+          "Amt": {
+            "text": "4.338420"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "RON"
+          },
+          "Amt": {
+            "text": "4.8584"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "RSD"
+          },
+          "Amt": {
+            "text": "117.557480"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "RUB"
+          },
+          "Amt": {
+            "text": "88.7275"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "SAR"
+          },
+          "Amt": {
+            "text": "4.467790"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "SEK"
+          },
+          "Amt": {
+            "text": "10.3713"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "SGD"
+          },
+          "Amt": {
+            "text": "1.62"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "SYP"
+          },
+          "Amt": {
+            "text": "1498.059750"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "THB"
+          },
+          "Amt": {
+            "text": "37.1390"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "TJS"
+          },
+          "Amt": {
+            "text": "12.291240"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "TMT"
+          },
+          "Amt": {
+            "text": "4.163590"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "TND"
+          },
+          "Amt": {
+            "text": "3.271250"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "TRY"
+          },
+          "Amt": {
+            "text": "8.8565"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "TWD"
+          },
+          "Amt": {
+            "text": "34.965850"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "TZS"
+          },
+          "Amt": {
+            "text": "2763.8160"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "UAH"
+          },
+          "Amt": {
+            "text": "32.745860"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "UYU"
+          },
+          "Amt": {
+            "text": "50.981680"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "USD"
+          },
+          "Amt": {
+            "text": "1.1854"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "UZS"
+          },
+          "Amt": {
+            "text": "12227.622330"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "VES"
+          },
+          "Amt": {
+            "text": "375065.548910"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "VND"
+          },
+          "Amt": {
+            "text": "27608.3775"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "XAF"
+          },
+          "Amt": {
+            "text": "665.0194"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "XOF"
+          },
+          "Amt": {
+            "text": "659.682380"
+          }
+        }
+      ]
+    },
+    {
+      "Tp": {
+        "text": "LT"
+      },
+      "Dt": {
+        "text": "2020-09-14"
+      },
+      "CcyAmt": [
+        {
+          "Ccy": {
+            "text": "EUR"
+          },
+          "Amt": {
+            "text": "1"
+          }
+        },
+        {
+          "Ccy": {
+            "text": "ZAR"
+          },
+          "Amt": {
+            "text": "19.8527"
+          }
+        }
+      ]
+    }
+  ]
+}

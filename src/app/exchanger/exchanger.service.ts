@@ -3,52 +3,68 @@ import { HttpClient } from '@angular/common/http';
 import { Subject } from 'rxjs';
 import { Currency } from '../models/currency.model';
 import { map } from 'rxjs/operators';
-import { Languages } from '../models/languages.model';
+import { Rate } from '../models/rate.model';
+import { environment } from '../../environments/environment';
+
+const BACKEND_URL = environment.apiUrl;
 
 @Injectable({ providedIn: 'root' })
 export class ExchangerService {
   private currencies: Currency[] = [];
+  private rates: Rate[] = [];
   private currenciesUpdated = new Subject<{ currencies: Currency[] }>();
+  private ratesUpdated = new Subject<{ rates: Rate[] }>();
 
   constructor(private http: HttpClient) {}
 
   getCurrency() {
     this.http
-      .get<{ message: string; currencies: any }>(
-        'http://localhost:3000/api/currency'
-      )
+      .get<{ currencyArrays: any }>(BACKEND_URL + '/currency')
       .pipe(
         map((currencyData) => {
-          currencyData.currencies,
-            map((currency) => {
-              console.log(currency);
-              return {
-                abbreviation: currency,
-                nameLT: currency,
-                nameEN: currency,
-                rate: currency,
-                id: currency,
-                // Ccy: currency.abbreviation,
-                // CcyNm: currency.nameEN,
-                // CCyNbr: currency.id,
-              };
-            });
+          let currencyArray = [];
+          for (let i = 0; i < currencyData.currencyArrays.length; i++) {
+            currencyArray.push(currencyData.currencyArrays[i]);
+          }
+          return currencyArray;
         })
       )
       .subscribe((transformedCurrencyData) => {
-        //console.log(transformedCurrencyData);
-        //!   //this.currencies = transformedCurrencyData.currencies;
+        this.currencies = [...transformedCurrencyData];
         this.currenciesUpdated.next({
           currencies: [...this.currencies],
         });
       });
   }
 
+  getRates() {
+    this.http
+      .get<{ rates: any }>(BACKEND_URL + '/rates')
+      .pipe(
+        map((rateData) => {
+          let rateArray = [];
+
+          for (let i = 0; i < rateData.rates.length; i++) {
+            rateArray.push(rateData.rates[i]);
+          }
+          return rateArray;
+        })
+      )
+      .subscribe((transformedRateArrayData) => {
+        this.rates = [...transformedRateArrayData];
+        this.ratesUpdated.next({
+          rates: [...this.rates],
+        });
+      });
+  }
+
+  convertData(from: string, to: string, amount: number) {}
+
   getCurrencyUpdateListener() {
     return this.currenciesUpdated.asObservable();
   }
 
-  // addCurrencies(abbreviation: string, languages: Languages, serialNumber: number, numb: number) {
-  //   const postData = new FormData()
-  // }
+  getRateUpdateListener() {
+    return this.ratesUpdated.asObservable();
+  }
 }

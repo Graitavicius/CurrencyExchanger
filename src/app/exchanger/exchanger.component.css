@@ -2,14 +2,16 @@
   padding: 16px;
   margin: 16px;
   display: flex;
+  width: auto;
 }
 
 .list {
   display: block;
-  margin: auto 16px;
+  margin: auto;
   padding: 20px;
   height: 150px;
-  width: 33%;
+  width: 28%;
+  background-color: white;
   border: 1px solid #eee;
   box-shadow: 2px 4px 3px 1px #ccc;
 }
@@ -31,9 +33,16 @@ input {
   height: 100px;
   padding: 16px;
   margin: auto;
-  width: 80%;
+  width: 70%;
+  background-color: white;
   border: 1px solid #eee;
   box-shadow: 2px 4px 3px 1px #ccc;
+}
+
+.result h3 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .center {

@@ -1,7 +1,6 @@
 export interface Currency {
-  id: string;
-  abbreviation: string;
-  nameLT: string;
-  nameEN: string;
-  number: number;
+  Ccy: string; //abbreviation
+  CcyMnrUnts: number; //decimal number
+  CcyNbr: number; //serial number
+  CcyNm: any; //Full name
 }

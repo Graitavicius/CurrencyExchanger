@@ -1,0 +1,16 @@
+{
+  "name": "currency-exchanger",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "eyes": "^0.1.8",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.10.5",
+    "timers": "^0.1.1",
+    "tslib": "^1.10.0",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.23",
+    "xml2js-parser": "^1.1.1"
+  }
+}

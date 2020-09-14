@@ -1,11 +1,12 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
-const fs = require("fs");
 
 mongoose
   .connect(
-    "mongodb+srv://mindaugas:etIzMhRfn9X0oJDx@cluster0.je8oc.mongodb.net/currency-exchanger?retryWrites=true&w=majority"
+    "mongodb+srv://mindaugas:" +
+      process.env.MONGO_ATLAS_PW +
+      "@cluster0.je8oc.mongodb.net/currency-exchanger?retryWrites=true&w=majority"
   )
   .then(() => {
     console.log("Connected to the database!");
@@ -29,24 +30,32 @@ app.use((req, res, next) => {
   next();
 });
 
-// fs.readFile("currency.json", (err, data) => {
-//   if (err) throw err;
-//   let currency = JSON.parse(data);
-//   console.log(currency);
-// });
-
-let eyes = require("eyes");
 let jsonData = require("./currency.json");
+let jsonRates = require("./rates.json");
 
-//console.log(jsonData);
-// for (i = 0; i < jsonData.CcyNtry.length; i++) {
-//   console.log(jsonData.CcyNtry[i].CcyNm[1].text);
-// }
-eyes.inspect(jsonData.CcyNtry[1]);
 app.get("/api/currency", (req, res, next) => {
+  let currencyArrays = [];
+  for (let i = 0; i < jsonData.CcyNtry.length; i++) {
+    currencyArrays.push([
+      jsonData.CcyNtry[i].Ccy.text,
+      jsonData.CcyNtry[i].CcyNm[1].text,
+    ]);
+  }
   res.status(200).json({
-    message: "Currencies fetched successfully",
-    currencies: jsonData,
+    currencyArrays: currencyArrays,
+  });
+});
+
+app.get("/api/rates", (req, res, next) => {
+  rateArray = [];
+  for (let i = 0; i < jsonRates.FxRate.length; i++) {
+    rateArray.push([
+      jsonRates.FxRate[i].CcyAmt[1].Ccy.text,
+      jsonRates.FxRate[i].CcyAmt[1].Amt.text,
+    ]);
+  }
+  res.status(200).json({
+    rates: rateArray,
   });
 });
 
